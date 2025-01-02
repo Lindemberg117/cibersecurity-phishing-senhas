@@ -24,5 +24,5 @@ Phishing para captura de senhas do Facebook
      - Obsevar as informações no Kali
 
   # Resultados
-
+  <img src="https://raw.githubusercontent.com/Lindemberg117/cibersecurity-phishing-senhas/refs/heads/main/informa%C3%A7%C3%A3o.png">
   
