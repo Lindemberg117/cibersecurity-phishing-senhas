@@ -19,9 +19,9 @@ Phishing para captura de senhas do Facebook
 
   # Passos
 
-     Copiar link
-     Enviar
-     Obsevar as informações no Kali
+     - Copiar link
+     - Enviar
+     - Obsevar as informações no Kali
 
   # Resultados
 
